@@ -1,0 +1,27 @@
+.navbar-head {
+    
+    background-color: #eb0b0b;
+    border-color: none;
+    border-radius: 0px;
+margin-bottom: 0px;}
+
+    .navbar-head .navbar-brand {
+        color: #fff;
+        font-weight: bold;
+        
+    }
+    .navbar-head  img
+    {
+        height: 50px;
+        width: 30px;
+    }
+
+.navbar-head .navbar-nav > li > a {
+    color: #fff;}
+   
+ .navbar-head  button .g-search
+ {  color: white;
+    margin: 5px;
+    background-color: black;
+  
+}
