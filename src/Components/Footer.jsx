@@ -6,7 +6,7 @@ const Footer = () => {
         <div class="container">
           <div class="row">
             <p class="text-center">
-              &COPY; 2021 Pizzamania All Rights reserved
+             2021 Pizzamania All Rights reserved
             </p>
           </div>
         </div>
