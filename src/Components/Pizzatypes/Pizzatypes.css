@@ -1,0 +1,17 @@
+        
+        .thumbnail-content {
+            margin-right: -15px;
+            margin-left: -15px;
+            margin-top: 5rem;
+            color: black;
+        }
+        .thumbnail{
+            display: block;
+            padding: 4px;
+            margin-bottom: 20px;
+            line-height: 1.42857143;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            color: black;}
+        
